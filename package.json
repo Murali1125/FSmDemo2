@@ -1,0 +1,21 @@
+{
+  "name": "fsmdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murali1125/FSmDemo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murali1125/FSmDemo2/issues"
+  },
+  "homepage": "https://github.com/Murali1125/FSmDemo2#index"
+}
