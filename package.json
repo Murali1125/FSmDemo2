@@ -15,16 +15,13 @@
     "url": "git+https://github.com/SAP-samples/fsm-extension-sample.git"
   },
   "keywords": [],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SAP-samples/fsm-extension-sample/issues"
-  },
+
   "dependencies": {
     "concurrently": "^6.0.0",
     "cross-var": "^1.1.0",
     "dotenv": "^8.2.0",
     "dotenv-cli": "^4.0.0"
-  }
+  },
 
   "main": "script.js",
 
