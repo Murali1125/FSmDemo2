@@ -3,5 +3,5 @@
   "provider": "FSM Demo",
   "description": "Sample Extesion to add Logo",   
   "version": "1.0.0", 
-  "icon": "./evoraLogo.png"
+  "icon": "https://github.com/Murali1125/FSmDemo2/evoraLogo.png"
 }
